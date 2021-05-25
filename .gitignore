@@ -1,0 +1,5 @@
+config.json
+config_beta.json
+.idea/
+.vscode/
+__pycache__/

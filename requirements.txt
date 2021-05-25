@@ -1,0 +1,9 @@
+aiocache
+aiodns
+aiofiles
+aiogram
+aiohttp
+asyncpg
+cchardet
+matplotlib
+pillow
